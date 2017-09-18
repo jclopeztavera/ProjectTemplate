@@ -8,8 +8,8 @@ munging: TRUE
 logging: FALSE
 logging_level: INFO
 load_libraries: FALSE
-libraries: reshape2, plyr, tidyverse, stringr, lubridate
-as_factors: TRUE
+libraries: tidyverse, rmarkdown, shiny
+as_factors: FALSE
 data_tables: FALSE
 attach_internal_libraries: FALSE
 cache_loaded_data:  TRUE
